@@ -8,9 +8,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-
   background-size: 1000px;
-  background-image: url("images/bg.jpeg");
+  background-image: url("./images/bg.jpeg");
   background-position: center center;
 }
 
